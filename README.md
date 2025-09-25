@@ -1,16 +1,34 @@
-## Hi there 👋
+# <p align="center">✨ Haii! Aku Amalia ✨
 
-<!--
-**amlrn/amlrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<strong> Manajemen • IT • Pembelajar Seumur Hidup</strong><br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Skill & Tools
+
+- Manajemen: perencanaan, dokumentasi, analisis proses
+- IT & Tech: dasar pemrograman, Git/GitHub, HTML/CSS, dasar database
+- Tools yang sering dipakai: Git, VS Code, Google Sheets, AppSheet / automasi
+- Sifat kerja: cepat belajar, sistematis, teliti
+
+---
+
+## 📚 Sedang Dipelajari
+
+- Pengembangan aplikasi no-code (AppSheet)
+- Automasi sederhana untuk proses bisnis kecil
+- Dasar-dasar cloud & database untuk manajemen data
+- Html dan CSS
+
+---
+
+## 📫 Kontak & Sosial
+
+- Email : amalianraihanwork@gmail.com
+- Instagram : @amlrn._
+
+Terima kasih sudah mampir — kalau mau lihat progres belajarku, cek repositoriku atau follow untuk update kecil tiap minggu ✨
